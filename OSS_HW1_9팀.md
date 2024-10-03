@@ -14,15 +14,15 @@
 &nbsp; 오픈 소스 GNU GPLv2을 사용 중이다.
 
 ## 3.주요기능   
-1.모델링(Modeling)   
+### 1. 모델링(Modeling)   
 ...   
-2.재질 입히기(Shading)   
+### 2. 재질 입히기(Shading)   
 ...   
-3.애니메이팅(Animating)   
+### 3. 애니메이팅(Animating)   
 ...   
-4.스컬프팅(Sculpting)   
+### 4. 스컬프팅(Sculpting)   
 ...   
-5.물리 시뮬레이션(Physics)   
+### 5. 물리 시뮬레이션(Physics)   
 ...   
 
 
