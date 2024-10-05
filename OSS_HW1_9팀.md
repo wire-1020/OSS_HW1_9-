@@ -42,6 +42,6 @@
 &nbsp;Cycles는 광선추적방식(Ray Tracing)의 렌더링 엔진이다. 광선추적방식은 광원에서 가상의 광선이 모델링한 물체의 표면에 반사되어 나와 카메라에 도달하는 경로를 계산하여 물체를 렌더링하는 방식이다. 간단하게 말해서 현실에서 우리가 물체를 보는 방식을 최대한 비슷하게 재연한 방식이다. 이러한 렌더링 방식의 원리 때문에 Cycles 엔진은 블렌더에서 제공하는 3가지 방식의 렌더링 중 가장 현실적으로 물체를 렌더링하는 방식이지만 동시에 렌더링의 시간이 가장 오래 걸리고 컴퓨팅 자원을 가장 많이 차지한다는 단점이 있다. 따라서 실시간 렌더링에는 적절하지 않고 최종작업물을 만들기 위해 많이 채택하는 렌더링 엔진이다. 블렌더 3.0 버전에서부터는 Cycles X라는 프로젝트를 통해 렌더링의 속도를 절반에서 1/5까지 줄이는 효과를 보았다.  
 
 ## 4.출처
-https://docs.blender.org/manual/nb/2.79/modeling/index.html (Blender 2.79 Manual - Modeling)
-https://code.blender.org/2021/11/cycles-x-project-update/ (Cycles X Project Update)
+https://docs.blender.org/manual/nb/2.79/modeling/index.html (Blender 2.79 Manual - Modeling)  
+https://code.blender.org/2021/11/cycles-x-project-update/ (Cycles X Project Update)  
 https://en.wikipedia.org/wiki/Ray_tracing_(graphics) (Ray Tracing - Wiki)
