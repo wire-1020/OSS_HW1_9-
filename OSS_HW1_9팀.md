@@ -47,5 +47,5 @@
 ## 4.출처
 https://docs.blender.org/manual/nb/2.79/modeling/index.html (Blender 2.79 Manual - Modeling)  
 https://code.blender.org/2021/11/cycles-x-project-update/ (Cycles X Project Update)  
-https://en.wikipedia.org/wiki/Ray_tracing_(graphics) (Ray Tracing - Wiki) 
+https://en.wikipedia.org/wiki/Ray_tracing_(graphics) (Ray Tracing - Wiki)  
 https://www.blender.org/features/simulation/ (Simulations)  
