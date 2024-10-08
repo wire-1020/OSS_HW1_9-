@@ -90,12 +90,12 @@ GPL은 블렌더 프로그램 자체에만 적용되며, 이를 이용해 만든
 <img src="img/render_workbench_introduction_example.png"/>
 
 ## 4.출처
-https://docs.blender.org/manual/nb/2.79/modeling/index.html (블렌더 2.79 매뉴얼 - 모델링)
-https://code.blender.org/2021/11/cycles-x-project-update/ (사이클 X 프로젝트 업데이트)
-https://en.wikipedia.org/wiki/Ray_tracing_(graphics) (레이 트레이싱 - 위키)
-https://www.blender.org/features/simulation/ (블렌더 - 시뮬레이션)
+https://docs.blender.org/manual/nb/2.79/modeling/index.html (블렌더 2.79 매뉴얼 - 모델링)   
+https://code.blender.org/2021/11/cycles-x-project-update/ (사이클 X 프로젝트 업데이트)   
+https://en.wikipedia.org/wiki/Ray_tracing_(graphics) (레이 트레이싱 - 위키)   
+https://www.blender.org/features/simulation/ (블렌더 - 시뮬레이션)   
 https://ko.wikipedia.org/wiki/%EB%B9%84%EA%B7%A0%EC%9D%BC_%EC%9C%A0%EB%A6%AC_B-%EC%8A%A4%ED%94%8C%EB%9D%BC%EC%9D%B8 (위키백과 - 비균일 유리 B-스플라인)   
-https://ko.wikipedia.org/wiki/%EB%A9%94%ED%83%80%EB%B3%BC (위키백과 - 메타볼)
+https://ko.wikipedia.org/wiki/%EB%A9%94%ED%83%80%EB%B3%BC (위키백과 - 메타볼)   
 https://docs.blender.org/manual/en/latest/sculpt_paint/sculpting/tool_settings/dyntopo.html (블렌더 4.2 매뉴얼 - Dyntopo)   
 https://www.blender.org/features/sculpting/ (블렌더 - 조각)   
 https://docs.blender.org/manual/nb/2.79/rigging/index.html (블렌더 2.79 매뉴얼 - 리깅)    
