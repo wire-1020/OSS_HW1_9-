@@ -11,7 +11,9 @@
 &nbsp; Blender 재단 및 법인에서 개발한 3D 컴퓨터 그래픽을 제작하는 프로그램이다. 블렌더를 사용하면 정지 영상, 3D 애니메이션, VFX샷과 같은 3D 시각화를 만들고 동영상을 편집할 수 있다. 블렌더는 크로스 플랫폼 애플리테이션으로서 Linux, macOS 및 Windows 시스템에서 실행되며, 인터페이스는 OpenGL을 사용해 지원되는 모든 하드웨어와 플랫폼에서 일관된 화면을 제공한다. 다른 제품들에 비해 메모리 및 드라이브 요구 사항이 상대적으로 적다. 블렌더는 애니메이션 제작, 게임 자산, 모션 그래픽, TV프로그램 제작 등 거의 모든 종류의 미디어 제작에 적합하다. 
 
 ## 2.라이선스 
-&nbsp; 오픈 소스 GNU GPLv2을 사용 중이다.
+&nbsp; 1989년 자유 소프트웨어 재단(Free Software Foundation)에서 만든 오픈 소스 라이선스인 GNU GPLv2을 사용 중이다.   
+GNU GPLv2는 복제, 배포, 수정을 허용하며 라이선스 의무에 따라 GPL 사본을 프로그램에 제공해야 한다. 또한 GPL의 조건을 무시하고 라이선스를 제한하거나, 독점 제품으로 바꿀 수 없다.     
+GPL은 블렌더 프로그램 자체에만 적용되며, 이를 이용해 만든 작업물에는 적용되지 않는다.   
 
 ## 3.주요기능 
 ### 1. 모델링(Modeling) 
@@ -96,3 +98,5 @@ https://ko.wikipedia.org/wiki/%EB%A9%94%ED%83%80%EB%B3%BC (위키백과 - 메타
 https://docs.blender.org/manual/en/latest/sculpt_paint/sculpting/tool_settings/dyntopo.html (블렌더 4.2 매뉴얼 - Dyntopo)
 https://www.blender.org/features/sculpting/ (블렌더 - 조각)
 https://docs.blender.org/manual/nb/2.79/rigging/index.html (블렌더 2.79 매뉴얼 - 리깅) 
+https://docs.blender.org/manual/nb/2.79/animation/index.html (블렌더 2.79 매뉴얼 - 애니메이션)
+https://docs.blender.org/manual/nb/2.79/getting_started/about/license.html (블렌더 2.79 매뉴얼 - 무료 소프트웨어 및 GPL 정보)
